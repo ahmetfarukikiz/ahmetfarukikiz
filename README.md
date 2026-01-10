@@ -1,14 +1,10 @@
-### 👋 Hakkımda
+###  Selam ben Ahmet👋
 
-Bilgisayar Mühendisliği öğrencisiyim. **C#**, **.NET** ekosistemi ve **Veritabanı Yönetimi** (PostgreSQL) üzerine projeler geliştiriyorum. OOP prensipleri ve temiz kod mimarisi ile ilgileniyorum.
-
-- 🔭 Şu an **.NET Core ve PostgreSQL** tabanlı sistemler üzerinde çalışıyorum.
-- 🌱 **Entity Framework** ve **Design Patterns** konularında kendimi geliştiriyorum.
-- ⚡ **Hobiler:** Oyun geliştirme algoritmaları ve sistem mimarileri.
+Sakarya Üniversitesi Bilgisayar Mühendisliği 2.sınıf öğrencisiyim. C#, C++ ve Web programlama alanında kendimi geliştirmeye çalışıyorum.
 
 ---
 
-### 🛠️ Yetenekler & Teknolojiler
+### Şu ana kadar projelerimde kullandığım diller ve teknolojiler:
 
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -30,12 +26,3 @@ Bilgisayar Mühendisliği öğrencisiyim. **C#**, **.NET** ekosistemi ve **Verit
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 </div>
 
----
-
-### 📊 GitHub İstatistiklerim
-
-<br>
-
-<div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetfarukikiz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
