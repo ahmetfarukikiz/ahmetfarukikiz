@@ -28,7 +28,7 @@ Bilgisayar Mühendisliği öğrencisiyim. **C#**, **.NET** ekosistemi ve **Verit
   <img src="https://img.shields.io/badge/Windows_Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-</div>>
+</div>
 
 ---
 
