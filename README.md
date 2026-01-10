@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D6,100:512BD4&height=280&section=header&text=Merhaba,%20Ben%20Ahmet%20Faruk!&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
-</div>
-
 ### 👋 Hakkımda
 
 Bilgisayar Mühendisliği öğrencisiyim. **C#**, **.NET** ekosistemi ve **Veritabanı Yönetimi** (PostgreSQL) üzerine projeler geliştiriyorum. OOP prensipleri ve temiz kod mimarisi ile ilgileniyorum.
@@ -40,11 +36,11 @@ Bilgisayar Mühendisliği öğrencisiyim. **C#**, **.NET** ekosistemi ve **Verit
 
 <div align="center">
   <a href="https://github.com/ahmetfarukikiz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmetfarukikiz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ahmetfarukikiz&show_icons=true&theme=tokyonight&include_all_commits=true"/>
   </a>
   
   <a href="https://github.com/ahmetfarukikiz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetfarukikiz&layout=compact&theme=tokyonight&hide_border=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetfarukikiz&layout=compact&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
 
