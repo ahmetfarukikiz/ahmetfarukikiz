@@ -34,16 +34,6 @@ Bilgisayar Mühendisliği öğrencisiyim. **C#**, **.NET** ekosistemi ve **Verit
 
 ### 📊 GitHub İstatistiklerim
 
-<div align="center">
-  <a href="https://github.com/ahmetfarukikiz">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ahmetfarukikiz&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  </a>
-  
-  <a href="https://github.com/ahmetfarukikiz">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetfarukikiz&layout=compact&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
-
 <br>
 
 <div align="center"> 
