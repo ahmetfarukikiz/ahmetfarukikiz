@@ -7,12 +7,13 @@ Sakarya Üniversitesi Bilgisayar Mühendisliği 2.sınıf öğrencisiyim.
 ### Şu ana kadar projelerimde kullandığım diller ve teknolojiler:
 
 <div align="center">
+  <img src="https://img.shields.io/badge/C-316192?style=for-the-badge&logo=clanguage&logoColor=white" />
   <img src="https://img.shields.io/badge/assembly-41aBa0?style=for-the-badge&logo=assembly&logoColor=white" />
   <img src="https://img.shields.io/badge/8051-aa3333?style=for-the-badge&logo=8051&logoColor=white" />
 
   <br>
-  <img src="https://img.shields.io/badge/C-ccaa20?style=for-the-badge&logo=clanguage&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   
