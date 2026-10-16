@@ -1,6 +1,6 @@
 ###  Selam ben Ahmet👋
 
-Sakarya Üniversitesi Bilgisayar Mühendisliği 2.sınıf öğrencisiyim. Elimden geldiğince yeni şeyler öğrenmeye ve kendimi geliştirmeye çalışıyorum. <br>
+Sakarya Üniversitesi Bilgisayar Mühendisliği 3.sınıf öğrencisiyim. Elimden geldiğince yeni şeyler öğrenmeye ve kendimi geliştirmeye çalışıyorum. <br>
 
 * [Websitem](https://ahmetfarukikiz.infinityfreeapp.com/?i=1)
 * [Okul projelerim ve tuttuğum notlar](https://github.com/ahmetfarukikiz/SakaryaUniversityCeng) 
